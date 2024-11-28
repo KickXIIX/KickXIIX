@@ -241,7 +241,7 @@ body{
     }
 
     .header-image {
-        width: 80%; /* Rende il contenitore dell'immagine più piccolo (100% della larghezza del viewport) */
+        width: 100%; /* Rende il contenitore dell'immagine più piccolo (100% della larghezza del viewport) */
         height: auto; /* Imposta altezza automatica per mantenere le proporzioni */
     }
 }
